@@ -20,12 +20,12 @@ export default function App() {
 
         <View style={styles.row}>
           <MaterialCommunityIcons name='email-outline' size={30} color='#0077B5' />
-          <Text>machado.eduardo2001@gmail.com</Text>
+          <Text>machado.eduardo@gmail.com</Text>
         </View>
 
         <View style={styles.row}>
           <MaterialCommunityIcons name='phone-outline' size={30} color='#0077B5' />
-          <Text>(47) 99781-9629 </Text>
+          <Text>(47) 99999-9999 </Text>
         </View>
 
         <View style={styles.row}>
